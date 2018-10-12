@@ -1,6 +1,10 @@
 {
-  "name": "package-one",
+  "name": "house",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "window": "^1.0.0"
+  }
 }
