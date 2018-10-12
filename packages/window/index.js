@@ -1,1 +1,1 @@
-console.log("323232");
+console.log("window");
