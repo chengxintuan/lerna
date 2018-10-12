@@ -1,10 +1,11 @@
 {
   "name": "house",
-  "version": "1.0.6",
+  "version": "1.0.0",
+  "description": "",
   "main": "index.js",
-  "license": "MIT",
-  "dependencies": {
-    "lodash": "^4.17.11"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "gitHead": "1bdbc8a947debb89d343a2e2fedf817a8da5895f"
+  "author": "",
+  "license": "ISC"
 }

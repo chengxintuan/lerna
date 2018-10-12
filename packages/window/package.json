@@ -1,7 +1,12 @@
 {
   "name": "window",
-  "version": "1.0.6",
+  "version": "1.0.0",
+  "description": "",
   "main": "index.js",
-  "license": "MIT",
-  "gitHead": "1bdbc8a947debb89d343a2e2fedf817a8da5895f"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": ""
 }
