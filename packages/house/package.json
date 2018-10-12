@@ -8,9 +8,5 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "ef2d50de7baffa11d558bd5ae608c15dcdb187ef",
-  "devDependencies": {
-    "cheng_window": "^1.0.12",
-    "lodash": "^4.17.11"
-  }
+  "gitHead": "ef2d50de7baffa11d558bd5ae608c15dcdb187ef"
 }
